@@ -1,0 +1,3 @@
+这是master分支
+基于Java语言的接口自动化：HttpClient+TestNG+Mock+MyBatis+持续集成
+版本更新：First commit
